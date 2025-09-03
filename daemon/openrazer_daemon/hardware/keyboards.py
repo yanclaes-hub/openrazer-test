@@ -396,11 +396,11 @@ class RazerBlackWidowV3ProWireless(RazerBlackWidowV3ProWired):
 
     DEVICE_IMAGE = "https://dl.razerzone.com/src/3809-1-EN-v1.png"
 
-class RazerBlackWidowV4TKL_HS(_RippleKeyboard):
+class RazerBlackWidowV4TKL(_RippleKeyboard):
     """
     Class for the Razer BlackWidow V4 TKL
     """
-    EVENT_FILE_REGEX = re.compile(r'.*RazerBlackWidowV4TKL_HS_(-if01)?-event-kbd')
+    EVENT_FILE_REGEX = re.compile(r'.*Razer_Razer_BlackWidow_V4_TKL(-if01)?-event-kbd')
 
     USB_VID = 0x1532
     USB_PID = 0x02d5
