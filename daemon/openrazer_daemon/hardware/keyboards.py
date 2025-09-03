@@ -403,7 +403,7 @@ class RazerBlackWidowV4TKL_HS(_RippleKeyboard):
     EVENT_FILE_REGEX = re.compile(r'.*RazerBlackWidowV4TKL_HS_(-if01)?-event-kbd')
 
     USB_VID = 0x1532
-    USB_PID = 0x02A5
+    USB_PID = 0x02d5
     HAS_MATRIX = True
     WAVE_DIRS = (1, 2)
     MATRIX_DIMS = [6, 16]
