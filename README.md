@@ -31,8 +31,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer BlackWidow Tournament Edition Chroma    |  1532:0209  |
 | Razer Blade QHD                               |  1532:020F  |
 | Razer Blade Pro (Late 2016)                   |  1532:0210  |
-| Razer BlackWidow V4 Tenkeyless (wireless)     |
-1532:xxxx  |
+| Razer BlackWidow V4 Tenkeyless (wireless)     |  1532:02d5  |
 | Razer BlackWidow Chroma (Overwatch)           |  1532:0211  |
 | Razer BlackWidow Ultimate 2016                |  1532:0214  |
 | Razer BlackWidow X Chroma                     |  1532:0216  |
