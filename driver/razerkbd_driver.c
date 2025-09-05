@@ -358,8 +358,8 @@ static void razer_get_report_params(struct usb_device *usb_dev, uint *report_ind
         *wait_max = RAZER_BLACKWIDOW_V3_WIRELESS_WAIT_MAX_US;
         break;
     case USB_DEVICE_ID_RAZER_BLACKWIDOW_V4_TKL:
-        *report_index = 0x02;
-        *response_index = 0x02;
+        *report_index = 0x03;
+        *response_index = 0x03;
         *wait_min = RAZER_BLACKWIDOW_CHROMA_WAIT_MIN_US;
         *wait_max = RAZER_BLACKWIDOW_CHROMA_WAIT_MAX_US;
         break;
